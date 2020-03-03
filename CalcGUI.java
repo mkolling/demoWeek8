@@ -12,7 +12,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 
 /**
- * A Calculator GUI in JavaFX.
+ * A Calculator GUI in JavaFX...
  *
  * @author mik
  */
