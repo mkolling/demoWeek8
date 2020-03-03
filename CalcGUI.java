@@ -33,7 +33,7 @@ public class CalcGUI extends Application
     @FXML
     private void clear(ActionEvent event)
     {
-        display.setText("0");
+        display.setText("00000");
     }
     
     @Override
